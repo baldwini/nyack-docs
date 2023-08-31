@@ -1,4 +1,3 @@
-
 # Background
 ---
 Old Age Civilization lived on the Planet of Nyack in the far past. As long as the civilization has existed, there has been a great Obelisk, once revered, then scorned. They progressed into a Sci Fi Society, abandoning traditional ideas for the progression of science. For reasons no one knows The Obelisk (Activated), bringing what was once fiction and myths into reality. These creatures that defied science and reality shattered civilization, and the disparate parts split off and became small tribes that were beholden to myths made real, having to follow these myth’s teachings to survive. Overtime, knowledge of the Old Age Civilization was lost, becoming itself a cautionary tale, and the scattered tribes of Nyack (New Age Civilization), rarely interact with outside tribes, or progress much at all, staying stagnate in fear.

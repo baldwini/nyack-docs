@@ -11,12 +11,12 @@ Factions
 Magic
 
 
-- Level Design
+- [[Level Design]]
 World Design
 World Variables
 Locations (Layouts)
 Enemies (Locations)
-Unique Items
+Items (Locations)
 
 
 - [[Workflow]]
@@ -26,11 +26,13 @@ Shaders
 Particles
 
 
-- Player Mechanics
+- [[Player Mechanics]]
 Movement, Jump
 Backpack
-Belt
-Items (Descriptions, not specifics)
+Hands
+Items (Descriptions)
 
-- Game Settings
+- [[Game Settings]]
 Controls
+
+# TABLE OF CONTENTS NEEDED

@@ -1,4 +1,3 @@
-
 # Design Goals and Rules
 ---
 1. References to our world must be vague, if a player doesn’t understand a reference to something made in the world and is confused by that, that makes the player feel out of a joke and breaks immersion.
