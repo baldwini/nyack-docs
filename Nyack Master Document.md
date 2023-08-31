@@ -1,15 +1,13 @@
-- Elevator Pitch
+- [[Elevator Pitch]]
 Design Goals
 Elevator Pitch
 
 
-- Story
-Story
+- [[Narrative]]
 Narrative
-Locations (Descriptions)
+Locations (Descriptions), Enemies (Descriptions)
 Music (What feeling belongs here)
 Factions
-Enemies (Descriptions)
 Magic
 
 
@@ -21,7 +19,7 @@ Enemies (Locations)
 Unique Items
 
 
-- Workflow
+- [[Workflow]]
 3D Modeling
 Programming
 Shaders
