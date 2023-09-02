@@ -4,11 +4,14 @@
 
 These are the default key binds for the game although they probably should be re-bindable by the player.
 
-**Movement** - *WASD*
-**Look** - *Mouse*
-**Jump** - *Space*
-
-*Note - Throwing, Picking Up, Swapping items needs to be redefined/removed* 
+**WASD** - *Movement*
+**Mouse** - *Look* 
+**Space** - *Jump* 
+**E** -  *Use* (Item, Interactable Object, Talk to Non-Player Character)
+**F** - *Pickup*
+**Q** - *Throw* (If Throwable)
+**Right Mouse** - *Cast Spell*
+**Left Mouse** - *Control Spell*
 
 ## Controller
 
