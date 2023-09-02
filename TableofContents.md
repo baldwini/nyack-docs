@@ -2,11 +2,11 @@
 ---
 Defining the scope, goals, and message of Nyack.
 
-# [[Game Settings]]
+# [[GameSettings]]
 ---
 The necessary settings for players to tweak in the game such as accessibility, controls, and display options.
 
-# [[ Level Design]]
+# [[LevelDesign]]
 ---
 A description of the world's general layout to specific individual levels. Also includes defined world variables, level specific puzzles, item placement, and encouraged route for the player from the start of the game to its completion.
 
