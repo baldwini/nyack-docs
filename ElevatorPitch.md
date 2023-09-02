@@ -9,4 +9,4 @@
 An obelisk that cuts through the planet of Nyack awakens one day and releases myth, creatures that come from fairytales. The activation of the obelisk was triggered by a civilization that abandoned and thought their old cultures were foolish. Our player lands into the underworld where the aftermath of the activation has unfolded.
 
 
-*"We don’t abandoned old ideas, we make progress while remembering."
+*"We don’t abandon old ideas, we make progress while remembering."
