@@ -17,3 +17,7 @@ The story of the world that we are creating, including background information be
 # [[PlayerMechanics]]
 ---
 A compressive list of everything the player can do in the game like movement, spell-casting, how items function, and using the backpack. These mechanics are written clearly and display what each mechanic can and cannot do. Magic player abilities and items are listed one by one and detailed in this section.
+
+# [[Workflow]]
+---
+Guides to how the game is built are found here accompanied by images, videos, and examples, when necessary.
