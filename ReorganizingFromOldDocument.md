@@ -1,4 +1,4 @@
-- [[Elevator Pitch]]
+- [[ElevatorPitch]]
 Design Goals
 Elevator Pitch
 
@@ -11,7 +11,7 @@ Factions
 Magic
 
 
-- [[Level Design]]
+- [[LevelDesign]]
 World Design
 World Variables
 Locations (Layouts)
@@ -26,13 +26,13 @@ Shaders
 Particles
 
 
-- [[Player Mechanics]]
+- [[PlayerMechanics]]
 Movement, Jump
 Backpack
 Hands
 Items (Descriptions)
 
-- [[Game Settings]]
+- [[GameSettings]]
 Controls
 
 # TABLE OF CONTENTS NEEDED
