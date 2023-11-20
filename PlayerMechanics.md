@@ -8,7 +8,7 @@ The player is able to move in all directions and is affected by gravity. They ha
 
 # Inventory
 ---
-The backpack holds all items the player picks up. There are set places for some equipment items like swords and armor pieces. Items can be pulled out of the bag into the player's hands or ground as well as being placed back into the bag. All items will be visually represented on the player character even if not traditionally equip-able.
+The backpack holds all items the player picks up. There are set places for some equipment items like swords and armor pieces. Items can be pulled out of the bag into the player's hands or ground as well as being placed back into the bag. All items will be visually represented on the player character even if not traditionally equip-able. The player inventory will have to be grid based or slot based; grid based is more 'realistic' as it shows that different objects have different shapes and sizes while slot based is way easier to manage and organize.
 
 # Items
 ---

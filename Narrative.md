@@ -1,6 +1,6 @@
 # Background
 ---
-Old Age Civilization lived on the Planet of Nyack in the far past. As long as the civilization has existed, there has been a great Obelisk, once revered, then scorned. They progressed into a Sci Fi Society, abandoning traditional ideas for the progression of science. For reasons no one knows The Obelisk (Activated), bringing what was once fiction and myths into reality. These creatures that defied science and reality shattered civilization, and the disparate parts split off and became small tribes that were beholden to myths made real, having to follow these myth’s teachings to survive. Overtime, knowledge of the Old Age Civilization was lost, becoming itself a cautionary tale, and the scattered tribes of Nyack (New Age Civilization), rarely interact with outside tribes, or progress much at all, staying stagnate in fear.
+Old Age Civilization lived on the Planet of Nyack in the far past. As long as the civilization has existed, there has been a great Obelisk, once revered, then scorned. They progressed into a society similar to that seen in early science fiction novels, abandoning traditional ideals for the progression of science. During the collapse of the old civilization the obelisk mimicked it's downfall, creating myths that resembled negative emotions found in the heads of old civilization citizens. These creatures that defied reality assisted in the shattering of the old civilization, and the disparate parts split off and became small tribes that were beholden to the obelisk's myths, having to live side by side with the feared myths. Overtime, knowledge of the Old Age Civilization was lost, becoming itself a cautionary tale, and the scattered tribes of Nyack (New Age Civilization), rarely interact with outside tribes, or progress much at all, staying stagnate in fear. The obelisk cannot be stopped unfortunately as it is the only reason life can survive in the depths of the deep caverns of Nyack.
 
 
 # Factions
@@ -11,7 +11,6 @@ Rebellion of people who are actively trying to stop the obelisk's pressure on th
 
 # Magic
 ---
-Long ago, civilizations existed alongside magic and abilities to personify their folktales and myths. During the middle age, technology and logical reasoning rose in popularity among the new civilizations. These civilizations looked at their ancestors as creatives and their history as merely fictitious. The middle age saw the obelisk rise from the abyss to above the sands. It also acted as their downfall after the obelisk's activation, bringing the old civilization's 'tales' into reality. The new civilization fractured into tribes which are spread across the underworld in fear of the myths and taking in all of their hostile teachings; the new age stagnates in progress and rarely interacts with other tribes. Magic returns to Nyack after the drought brought upon by the middle age's denial of old civilization history.
 
 
 # Locations

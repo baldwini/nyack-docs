@@ -4,6 +4,10 @@
 2. The main narrative must service creativity into individual stories. The main narrative isn’t the main focus but a catalyst for small, easily consumable interactions and stories.
 3. This is our first project, it doesn’t have to be perfect.
 
-# What is the Nyack project?
+# What is the setting?
 ---
 An obelisk that cuts through the planet of Nyack that replicates the emotions and actions of those who inhabit the planet. During the fall of the old civilization in the depths of Nyack the obelisk changes to reflect it, becoming more hostile and creating beasts that represent the old inhabitants. Our player lands into the underworld hundreds of years after the aftermath of the old civilization.
+
+# What is Nyack?
+---
+Nyack is a computer role-playing game inspired by the Generic Universal Roleplaying System created by Steve Jackson, late nineties video games, post-apocalyptic fantasy, and esoteric game design. Nyack isn't a full simulation game but takes advantage of simulation elements; if something is unrealistic but fun then it is heavily considered for the final build.
