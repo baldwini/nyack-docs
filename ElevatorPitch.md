@@ -6,7 +6,4 @@
 
 # What is the Nyack project?
 ---
-An obelisk that cuts through the planet of Nyack awakens one day and releases myth, creatures that come from fairytales. The activation of the obelisk was triggered by a civilization that abandoned and thought their old cultures were foolish. Our player lands into the underworld where the aftermath of the activation has unfolded.
-
-
-*"We don’t abandon old ideas, we make progress while remembering."
+An obelisk that cuts through the planet of Nyack that replicates the emotions and actions of those who inhabit the planet. During the fall of the old civilization in the depths of Nyack the obelisk changes to reflect it, becoming more hostile and creating beasts that represent the old inhabitants. Our player lands into the underworld hundreds of years after the aftermath of the old civilization.
