@@ -18,6 +18,9 @@ The story of the world that we are creating, including background information be
 ---
 A compressive list of everything the player can do in the game like movement, spell-casting, how items function, and using the backpack. These mechanics are written clearly and display what each mechanic can and cannot do. Magic player abilities and items are listed one by one and detailed in this section.
 
+# [[CharacterSheet]]
+---
+A list of everything that player can do based on their character sheet. This includes skills they have or can acquire, their attributes and what they affect, what the player character has equipped, possible status effects, characteristics that come in both negative and positive forms, and tags that play small impacts in the game.
 # [[Workflow]]
 ---
 Guides to how the game is built are found here accompanied by images, videos, and examples, when necessary.

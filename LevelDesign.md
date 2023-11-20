@@ -14,3 +14,19 @@ A clock that displays local time.
 Weather indicator that shows present and near future local weather reading.
 - Curse
 A display that shows the level of curse in a level segment, which triggers random events.
+
+# Targeted Player Characters
+---
+The game will need to be completable from start to finish with all of these playstyles and anything that might fall between them. Some side-quests may be more difficult for some classes however that is a given; the main narrative must be completable.
+
+- Thief
+A player character designed to run in and out of combat, steal items easily, wear the lightest armor variants, and typically has proficiency with light weapons.
+
+- Alchemist
+A player character designed to buff themselves, throw de-buffing and or damaging potions, wear a good mix of armors, and generally have some proficiency with simple weapons.
+
+- Fighter
+A player character designed to wear the heaviest of armors and wield the largest of weapons. This character is typically seen as the brute force character.
+
+- Mage
+A player character fully focused on spell-casting to solve problems and for combat. They typically do not focus on wearing armor that will weigh them down. They may have some proficiency with light weapons in case they run out of spells to cast.

@@ -10,6 +10,6 @@ Dexterity is used for many [[skills]] requiring agility or precision. Any skill 
 ---
 Insight spans all mental [[skills]] and anything to do with magic.
 
-### Vigor
+### Vigour
 ---
-Vigor dictates how much [[Skills#Health|health]] the player has and the strength of the player's [[Skills#Immune System|immune system]].
+Vigour dictates how much [[Skills#Health|health]] the player has and the strength of the player's [[Skills#Immune System|immune system]].

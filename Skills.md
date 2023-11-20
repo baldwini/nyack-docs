@@ -2,7 +2,7 @@
 ---
 Skill purchases in character creation will increase the skill score by 2. Gaining new unpurchased skills after character creation will be trading for training from non-player characters.
 
-## Active Skills
+## Acquired Skills
 ---
 ### Pick Pocket (DXT-4)
 Pick Pocketing a non-player character multiple times will increase the Complexity Rating by 1
@@ -49,7 +49,7 @@ The player may fail the check, if the player has a negative in the skill then th
 ### Survival (INS-4)
 Survival allows for player's to rest outside safe areas without harm as well as avoid less hazardous random encounters when exploring
 
-## Passive Skills
+## Innate Skills
 ---
 ### Carry Weight
 STR 0 - 100 WT
@@ -62,10 +62,10 @@ Movement Speed * 1.5 = Sprint Movement Speed
 (Speed Score * 1.5) / Weapon Weight = Swing Speed
 Swing Speed is the speed that Animator.speed plays at (1 is default speed, 2 is double speed)
 
-Speed Score 'Rounded' = 5 + (.67 * DXT) + (.33 * STR)
+Speed Score 'Rounded' = 5 + (.67 * Dexterity) + (.33 * Strength)
 
 ### Health
-Health Point Total (Rounded) = 25 + (VGR * 4.8)
+Health Point Total (Rounded) = 25 + (Vigour * 4.8)
 
 ### Immune System
 FILL ME IN
