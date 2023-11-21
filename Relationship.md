@@ -1,0 +1,8 @@
+# Individual
+---
+
+# Faction
+---
+
+# Location
+---

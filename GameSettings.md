@@ -5,13 +5,18 @@
 These are the default key binds for the game although they probably should be re-bindable by the player.
 
 **WASD** - *Movement*
-**Mouse** - *Look* 
+**Mouse** - *Selection Cursor* 
 **Space** - *Jump* 
-**E** -  *Use* (Item, Interactable Object, Talk to Non-Player Character)
-**F** - *Pickup*
-**Q** - *Throw* (If Throwable)
-**Right Mouse** - *Cast Spell*
-**Left Mouse** - *Control Spell*
+**Control** - *Crouch*
+**Tab** - *Swap Control Mode; Combat Mode, Interact Mode*
+**Right Mouse** - *Use Equipped Item, Combat Mode; Interaction Menu, Interact Mode*
+**Left Mouse** - *Use Equipped Item Alternative Function, Combat Mode; Interact, Interact Mode*
+**Middle Mouse** - *Throw Equipped Item, Combat Mode*
+**1** - *First Slot*
+**2** - *Second Slot*
+**3** - *Third Slot, Belt Only*
+**4** - *Fourth Slot, Belt Only*
+**5** - *Fifth Slot, Belt Only*
 
 ## Controller
 
