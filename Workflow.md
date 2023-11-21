@@ -1,4 +1,4 @@
-# 3D Modeling
+# 3D Modelling
 ---
 1. Keep vertices aligned on the voxel grid while maintaining one pixel per 0.063 meters. (Each locked unit in Blender represents one pixel long)
 2. Stray from using “voxel” looking structures and props, don’t refrain from creating interesting shapes and angles.
@@ -6,7 +6,7 @@
 4. Unwrap based on Cube Projection, might require tweaking for more complex/higher polygon count objects.
 
 
-Pixel Perfect Modeling Example [Video](https://www.youtube.com/watch?app=desktop&v=RQVAUaSUP-k)
+Pixel Perfect Modelling Example [Video](https://www.youtube.com/watch?app=desktop&v=RQVAUaSUP-k)
 
 # Scripting
 ---
@@ -16,9 +16,9 @@ The general workflow for scripting should uphold best practices that will make c
 When writing a script, we must have a clear goal in mind. Generally, larger problems can be broken down into smaller problems, which we can organize as functions in a script. A script should generally focus on handling the functionality for just one aspect of the game, for example moving the character, or lerping an object's position.
 #### Proactively documenting code functionality
 
-To make code more readable, and easier to maintain, we should write docstrings. Docstrings will enforce that we label each function with a description, a list of arguments and anything we should know about them, and what the function returns, along with anything we should know about that.
+To make code more readable, and easier to maintain, we should write doc-strings. Doc-strings will enforce that we label each function with a description, a list of arguments and anything we should know about them, and what the function returns, along with anything we should know about that.
 
-In addition, adding in-line comments, to help guide the person trying to read the code can provide more granular context than function level descriptions with docstrings. 
+In addition, adding in-line comments, to help guide the person trying to read the code can provide more granular context than function level descriptions with doc-strings. 
 
 #### Scripting Workflow
 
@@ -26,7 +26,7 @@ In addition, adding in-line comments, to help guide the person trying to read th
 2. Identify the functionality you want to implement, or the problem you want to address with a script. The script should address one particular piece of functionality at the lowest level. At higher levels, scripts that help organize/control the flow of the game may also exist.
 3. Segment sections of that problem into "smaller things that need to happen" in order to solve the issue. These will be your functions.
 4. Write your function boilerplate (set up the function names, function types, parameters, return types, etc).
-5. Go through the functions you have boilerplated and ensure each one has a docstring (see below for docstring example).
+5. Go through the functions you have boiler plated and ensure each one has a doc-string (see below for doc-string example).
 ```c#
 void RotateBackpack(Transform initTransform)
 	//Rotates the object this script is placed on based on mouse movement and 

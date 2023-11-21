@@ -1,7 +1,7 @@
 Notes
 - Each weapon is giving a score per type of status
 
-### Broken
+# Broken
 Cured by FILL IN
 Cause: Done by excessive dealt damage to specific limbs 
 
@@ -27,7 +27,7 @@ Simple Weapons, -20% Swing Speed Light Weapons (Multiply by 2 for two-handed wea
 
 Hand Right -5% HT, -30% Swing Speed Colossal Weapons, -15% Swing Speed Simple Weapons, -20% Swing Speed Light Weapons (Multiply by 2 for two-handed weapons)
 
-### Sleep Deprivation
+# Sleep Deprivation
 Cure: Sleeping
 Cause: Skipping Sleep
 
@@ -47,7 +47,7 @@ Cause: Skipping Sleep for 10 days
 
 Fake encounters may now hurt the player, auditory hallucinations continue, health points drain slowly (20 per day), Fog of war worsens, drop items randomly, uses primary items or magic randomly, dialogues are unreadable
 
-### Starvation
+# Starvation
 Cure: Eating
 Cause: Skipping Rations
 

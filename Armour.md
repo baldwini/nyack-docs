@@ -4,7 +4,7 @@ Some armors may have innate speed penalties
 
 Armors have Damage Resistance and Damage Negation values
 Damage values first get subtracted by DN then multiplied by decimal percentages
-Armor will have DR and DN for each type of damage (Pierce, Bludgeon, Slash, Fire, Electric, etc.)
+Armour will have DR and DN for each type of damage (Pierce, Bludgeon, Slash, Fire, Electric, etc.)
 
 Example:
 Bronze Helm DR 40% / DN 5
