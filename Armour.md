@@ -1,6 +1,6 @@
-[[Attributes#Strength|Strength]] requirements for wearing different armors
+[[Attributes#Strength|Strength]] requirements for wearing different armours
 Each attribute score away from STR is a movement speed & swing speed penalty of 33%
-Some armors may have innate speed penalties
+Some armours may have innate speed penalties
 
 Armors have Damage Resistance and Damage Negation values
 Damage values first get subtracted by DN then multiplied by decimal percentages
