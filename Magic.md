@@ -54,10 +54,11 @@ Used to identify unknown objects found in the player character's travels.
 
 ## Quality
 
-### Fortify
+### Aggrandize
 Makes blades sharper and armour tougher.
 
-## 
+### Mend
+Repair an [[Equipment|item]], restore it's quality. Only usable if the item is broken.
 
 # Monetary Cost
 ---

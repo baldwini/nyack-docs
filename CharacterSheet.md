@@ -12,3 +12,6 @@
 
 # [[Equipment]]
 ---
+
+# [[StatusEffects|Status Effects]]
+---
