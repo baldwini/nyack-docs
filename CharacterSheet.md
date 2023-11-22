@@ -15,3 +15,6 @@
 
 # [[StatusEffects|Status Effects]]
 ---
+
+# [[Relationship]]
+---
