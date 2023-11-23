@@ -17,7 +17,7 @@ A display that shows the level of curse in a level segment, which triggers rando
 
 # Targeted Player Characters
 ---
-The game will need to be completable from start to finish with all of these playstyles and anything that might fall between them. Some side-quests may be more difficult for some classes however that is a given; the main narrative must be completable.
+The game will need to be completable from start to finish with all of these play-styles and anything that might fall between them. Some side-quests may be more difficult for some classes however that is a given; the main narrative must be completable.
 
 - Thief
 A player character designed to run in and out of combat, steal items easily, wear the lightest armour variants, and typically has proficiency with light weapons.

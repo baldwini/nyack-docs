@@ -65,3 +65,8 @@ Repair an [[Equipment|item]], restore it's quality. Only usable if the item is b
 
 # Health Cost
 ---
+
+# Casting Failure
+---
+The more spells that player has equipped or stored on their character gives them more curse, which leads to side effects and or full spell casting failure.
+##  
