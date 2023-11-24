@@ -58,7 +58,7 @@ Used to identify unknown objects found in the player character's travels.
 Makes blades sharper and armour tougher.
 
 ### Mend
-Repair an [[Equipment|item]], restore it's quality. Only usable if the item is broken.
+Repair an [[Equipment|item]] or person, restore it's quality. Only usable if the item or bone is broken.
 
 # Monetary Cost
 ---

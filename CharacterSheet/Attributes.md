@@ -4,11 +4,11 @@ Strength governs may aspects of the player character except for skills. Strength
 
 ### Dexterity
 ---
-Dexterity is used for many [[skills]] requiring agility or precision. Any skill that needs hands to use will use dexterity. Dexterity also influences player [[Skills#Speed|speed]] values, it is more important than strength for this calculation. Dexterity is commonly referred to as DXT in the game menus.
+Dexterity is used for many [[Skills]] requiring agility or precision. Any skill that needs hands to use will use dexterity. Dexterity also influences player [[Skills#Speed|speed]] values, it is more important than strength for this calculation. Dexterity is commonly referred to as DXT in the game menus.
 
 ### Insight
 ---
-Insight spans all mental [[skills]] and anything to do with magic. Insight is commonly referred to in game as INS.
+Insight spans all mental [[Skills]] and anything to do with magic. Insight is commonly referred to in game as INS.
 
 ### Vigour
 ---
