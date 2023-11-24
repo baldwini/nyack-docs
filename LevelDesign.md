@@ -1,6 +1,6 @@
 # World Design
 ---
-World is made up of a web of linear segments that the player can choose from at locations in which they intersect. The player will be locked out of entering many of these segments without the right items or abilities; these segments will have to be revisited later after unlocking these new abilities. Sections that are unavailable to the player must be made clear to them so they don’t spend unnecessary time trying to solve an unsolvable puzzle.
+World is made up of a web of linear segments that the player can choose from at [[Locations|locations]] in which they intersect. The player will be locked out of entering many of these segments without the right items or abilities; these segments will have to be revisited later after unlocking these new abilities. Sections that are unavailable to the player must be made clear to them so they don’t spend unnecessary time trying to solve an unsolvable puzzle.
 
 # World Variables
 ---
