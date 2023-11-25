@@ -67,5 +67,5 @@ Speed Score 'Rounded' = 5 + (.67 * Dexterity) + (.33 * Strength)
 ## Health
 Health Point Total (Rounded) = 25 + (Vigour * 4.8)
 
-## Immune System
-FILL ME IN
+## Immunity
+(((1 + (Vigour * 1.8)) * 10) = Percentage of Immunity
