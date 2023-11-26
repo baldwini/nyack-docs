@@ -1,6 +1,6 @@
 # Spending Points
 ---
-Skill purchases in character creation will increase the skill score by 2. Gaining new skills after character creation can be achieved by trading something in return for training from non-player characters. All modifiers from the skill list below show their unacquainted modifier, before the +2 increase.
+First-time skill purchases in character creation will increase the skill score by 2. All other skill purchases afterwards, will increase the skill score by only 1. Gaining new skills after character creation can be achieved by trading something in return for training from non-player characters. All modifiers from the skill list below show their unacquainted modifier, before the +2 increase.
 
 # Acquired Skills
 ---
