@@ -42,7 +42,6 @@ Cause: Skipping Sleep
 
 - Phase 1
 Cause: Skipping Sleep for 6 days
-Cause: Blood loss
 
 Hearing voices, irregular sounds, and flashes of lights
 
@@ -78,8 +77,16 @@ Effects: -5 STR, -3 DXT, Movement becomes unreliable (swapping movement keys),
 # Blight
 ---
 ## Poison
-Stack-able
-Cure: Spell (unimplemented), acidic consumable, throwing powdery rocks near the player character
-Cause: Poison tipped weapons, drinking poison, walking and running into poison flora
+*Stack-able*
+* Cure: Spell (unimplemented), acidic consumable, throwing powdery rocks near the player character
+* Cause: Poison tipped weapons, drinking poison, walking and running into poison flora
 
-Effects: (5 Hit point * Immunity) loss every 5 real-time seconds
+##### Characteristics:
+* Damage: X Hit Points
+* Decay: Number of Hit Points that will remove from the last damage value every time damage occurs
+* Tick: Every X real-time seconds
+
+These values allow for different volatilities and durations of poisons.
+##### Effect:
+Example: Say Damage = 12, Decay = 3, Tick = 5 seconds...
+The player will take 12 Hit Points of damage, then 5 seconds later take 12 - 3 = 9 Hit Points of damage, then 5 seconds later take 6, then 3, then the poison has worn off... for a total of 30 damage over 15ish seconds...
