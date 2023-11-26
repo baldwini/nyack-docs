@@ -6,7 +6,7 @@ A modifier that dictates that the spell lasts for a set amount of time. Every sp
 ## Ritual
 Free costing spell's are rituals, they can be cast as many times as possible without expending health. These spells would take much longer to cast than any other spell and cannot be overly complex. Casting ritual spells will require [[Skills#Survival (INS-4)|survival]] checks.
 ## Area
-A spell that effects are area on hit. These can be a few feet in diameter to miles long. Although, for the player's sake the range will be defined as **one foot to fifty feet**. Area spells that have binding are known as "auras."
+A spell that effects an area on hit. These can be a few feet in diameter to miles long. Although, for the player's sake the range will be defined as **one foot to fifty feet**. Area spells that have binding are known as "auras."
 
 # Spell Targets
 ---
@@ -39,7 +39,7 @@ A spell that changes with a target's [[Relationship#Individual|state of mind]].
 The target will run from the caster. If the caster targets themselves with the spell they will be uncontrollable until the spell has worn off. A counter to the soothe spell type, negating it's effect.
 
 ### Soothe
-Release anger in the target's mind, turn hostile non-player character's into neutral or sceptical characters. A counter to the fear spell type, negating it's effect; the target will not be soothed nor in a state of fear.
+Release anger from the target's mind, turn hostile non-player character's into neutral or sceptical characters. A counter to the fear spell type, negating it's effect; the target will not be soothed nor in a state of fear.
 
 ## Information
 
