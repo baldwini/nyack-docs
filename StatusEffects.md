@@ -12,9 +12,12 @@ Head -10% HT, -3 INS
 
 Torso -30% HT
 
-Arm Left -10% HT, -50% Swing Speed Colossal Weapons, -35% Swing Speed Simple Weapons, -30% Swing Speed Light Weapons (Multiply by 2 for two-handed weapons) 
+Arm Left -10% HT, -100% Swing Speed Colossal Weapons, -70% Swing Speed Simple Weapons, -40% Swing Speed Light Weapons 
 
-Arm Right -10% HT, -50% Swing Speed Colossal Weapons, -35% Swing Speed Simple Weapons, -30% Swing Speed Light Weapons (Multiply by 2 for two-handed weapons) 
+Arm Right -10% HT, -100% Swing Speed Colossal Weapons, -70% Swing Speed Simple Weapons, -40% Swing Speed Light Weapons
+
+Two-handed Wielding
+(Arm Left Swing Speed + Arm Right Swing Speed) / 2 = Two-handed Swing Speed
 
 Leg Left -10% HT, -30% Speed (-60% Total Movement Speed Both Legs)
 
