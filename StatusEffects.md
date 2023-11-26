@@ -77,4 +77,4 @@ Stack-able
 Cure: Spell (unimplemented), acidic consumable, throwing powdery rocks near the player character
 Cause: Poison tipped weapons, drinking poison, walking and running into poison flora
 
-Effects: (5 Hit point - Immunity) loss every 5 real-time seconds
+Effects: (5 Hit point * Immunity) loss every 5 real-time seconds
