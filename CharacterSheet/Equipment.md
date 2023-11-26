@@ -10,7 +10,7 @@ Armour will have DR and DN for each type of damage (Pierce, Bludgeon, Slash, Fir
 
 Example:
 Bronze Helm DR 40% / DN 5
-Raw Damage - DN = X / DR = Actual Damage
+Raw Damage - DN = X * (1 - DR) = Actual Damage
 
 Armours are separated into different segments based on armour types
 Some pieces only provide defence of Arm Left, Arm Right, Leg Left, Leg Right, Torso, Head, Hand Left, Hand Right, Foot Left, Foot Right
