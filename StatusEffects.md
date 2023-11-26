@@ -21,7 +21,7 @@ Simple Weapons, -20% Swing Speed Light Weapons
 
 Hand Right -5% HT, -50% Swing Speed Colossal Weapons, -25% Swing Speed Simple Weapons, -20% Swing Speed Light Weapons
 
-Two-handed Wielding
+Two-handed Swing Speed
 ( min(Hand Left Swing Speed, Arm Left Swing Speed) + min(Hand Right Swing Speed, Arm Right Swing Speed) ) / 2 = Two-handed Swing Speed
 
 Leg Left -10% HT, -30% Speed (-60% Total Movement Speed Both Legs)
@@ -32,6 +32,8 @@ Foot Left -5% HT,  -15% Speed (-30% Total Movement Speed Both Feet)
 
 Foot Right -5% HT, -15% Speed (-30% Total Movement Speed Both Feet)
 
+Movement Speed
+( Leg Left + Leg Right + Foot Left + Foot Right ) = Movement Speed Penalty
 ## Sleep Deprivation
 Sleep is required to for the player to save the game; camps can be set up by the player to sleep outside towns. Different areas of the game will have protection levels based on distance from obelisk, nearby factions and towns, and the player's reputation with those towns or factions. These factors affect the difficulty of the [[Skills#Survival (INS-4)|Survival]] check, which is made every rest outside, if failed then a random encounter may begin. Failure to sleep will occasionally result in negative side effects for the player, growing based on how long the player hasn't slept.
 
