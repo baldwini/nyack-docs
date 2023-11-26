@@ -55,18 +55,18 @@ Fake encounters may now hurt the player, auditory hallucinations continue, healt
 Cure: Eating
 Cause: Skipping Rations
 
-- Phase 1
-Cause: Skipping Rations for 3 days
+- Peckish
+Cause: Skipping Rations for 2 days
 
 Effects: -1 STR, 
 
-- Phase 2
-Cause: Skipping Rations for 5 days
+- Hungry
+Cause: Skipping Rations for 4 days
 
 Effects: -3 STR, -1 DXT
 
-- Phase 3
-Cause: Skipping Rations for 6 days
+- Starving
+Cause: Skipping Rations for 5 days
 
 Effects: -5 STR, -3 DXT, Movement becomes unreliable (swapping movement keys),
 
@@ -77,4 +77,4 @@ Stack-able
 Cure: Spell (unimplemented), acidic consumable, throwing powdery rocks near the player character
 Cause: Poison tipped weapons, drinking poison, walking and running into poison flora
 
-Effects: (5 Hit point - Immunity)) loss every 5 real-time seconds
+Effects: (5 Hit point - Immunity) loss every 5 real-time seconds
