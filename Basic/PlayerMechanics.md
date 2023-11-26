@@ -14,6 +14,6 @@ Items may act as objects that tell the player about world variables or act as "k
 ---
 The player will have the ability to cast spells, limited to two at a time. These will affect the player, hostiles, non-player characters, and or the nearby environment. Each spell can have fairly versatile usage, allowing for each spell to act as two or three. For example, a fire spell can be used to create a fireball that can be held by the player to emit light, set object ablaze, or be thrown as a projectile. Spells will be user created and tailored to player needs, this comes at a cost however. Spell effects will be locked into gemstones that can be erased. These gemstones can be locked into jewellery or held in the player's hand for casting. 
 
-We have a few different options for selection below:
+**Possible Ways of Casting**:
 - Casting spells individually with your cursor
 - A UI that pops up on the screen that lets the player cycle through spells

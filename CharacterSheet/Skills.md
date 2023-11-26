@@ -17,7 +17,7 @@ Art of the deal.
 
 ## Repair
 *INS-4*
-The ability to repair broken items and machinery.
+The ability to repair broken [[Equipment|items]] and machinery.
 
 - **Example**: Skill in practice...
 	5 Repair should allow perfect repair on items and objects with Complexity Rating of 5 or less
@@ -32,17 +32,17 @@ Disarming will cover the plausibility of successfully disarming a  trap.
 
 ## Light Weapons
 *DXT-2*
-Light Weapons will allow for reaching damage values more reliably with light-class weapons. It is common for these weapons to have less effects than simple-class and colossal-class weapons, they are also the cheapest and easiest to find. This class of weapons are also the most thrown the most reliably, they are faster to throw and do more damage when thrown.
+[[Equipment#Light|Light Weapons]] will allow for reaching damage values more reliably with light-class weapons. It is common for these weapons to have less effects than simple-class and colossal-class weapons, they are also the cheapest and easiest to find. This class of weapons are also the most thrown the most reliably, they are faster to throw and do more damage when thrown.
 - **Example**: Skill in practice...
 	Higher values of the Light Weapons skill will only do maximum damage unless critically hitting, the minimum value of -7 will do minimum damage only.
 
 ## Simple Weapons
 *DXT-4*
-Simple Weapons will allow for reaching damage values more reliably with simple-class weapons. It is the most common for this class of weapons to have effects than both light-class or colossal-class weapons.
+[[Equipment#Simple|Simple Weapons]] will allow for reaching damage values more reliably with simple-class weapons. It is the most common for this class of weapons to have effects than both light-class or colossal-class weapons.
 
 ## Colossal Weapons
 *DXT-5*
-Colossal Weapons have high STR requirements to Wield correctly. Colossal Weapons are more harder to come by, cost more, but traditionally have more effects than either light-class but not simple-class weapons.
+[[Equipment#Colossal|Colossal Weapons]] have high STR requirements to Wield correctly. Colossal Weapons are more harder to come by, cost more, but traditionally have more effects than either light-class but not simple-class weapons.
 
 ## Throwing
 *DXT-4*
@@ -93,3 +93,13 @@ STR 0 - 100 WT
 	Vigour -4 = 1.8 Immunity
 	Vigour -5 = 2 Immunity
 
+# Armour
+*STR*
+- **[[Attributes#Strength|Strength]] Requirements**: Each attribute score away from the strength requirement is a movement speed and swing speed penalty of 33%, although some armours may have innate speed penalties.
+
+- **Armour defence**: Defined by Damage Resistance and Damage Negation values. Damage values first get subtracted by DN then multiplied by decimal percentages. Armour will have DR and DN for different types of damage. Some of those damage types may be: Pierce, Bludgeon, Slash, Fire, and Electric.
+- **Example**: Damage calculation with a Bronze Helmet...
+	*Bronze Helmet*: DR 40% / DN 5
+	Raw Damage - DN = X * (1 - DR) = Actual Damage
+
+- **Armour Pieces**: Armours are separated into different segments based on [[Equipment#Armour|armour types]]. Some pieces only provide defence of a specific body part while other pieces of armour provide defence to multiple areas. Pieces of armour will have their own individual weights.

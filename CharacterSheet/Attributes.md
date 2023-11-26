@@ -1,6 +1,6 @@
 ### Strength
 ---
-Strength governs may aspects of the player character except for skills. Strength allows for use of heavier [[Armour|armour]] and weapons, increasing [[Skills#Carry Weight|carry capacity]] for the player, and influences the player's movement and weapon swinging [[Skills#Speed|speed]] a bit. Strength is referred to in game as STR.
+Strength governs may aspects of the player character except for skills. Strength allows for use of heavier [[Skills#armour|armour]] and weapons, increasing [[Skills#Carry Weight|carry capacity]] for the player, and influences the player's movement and weapon swinging [[Skills#Speed|speed]] a bit. Strength is referred to in game as STR.
 
 ### Dexterity
 ---
