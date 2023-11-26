@@ -56,7 +56,7 @@ STR 0 - 100 WT
 +- 15 WT per level of STR
 
 ## Speed
-Speed Score / (Current Inventory Weight / Carry Weight Maximum) = Movement Speed
+Speed Score * (1 - (Current Inventory Weight / Carry Weight Maximum)) = Movement Speed
 Movement Speed * 1.5 = Sprint Movement Speed
 
 (Speed Score * 1.5) / Weapon Weight = Swing Speed
@@ -74,9 +74,9 @@ Vigour 3 = 0.7 Immunity
 Vigour 2 = 0.8 Immunity
 Vigour 1 = 0.9 Immunity
 Vigour 0 = 1 Immunity
-Vigour -1 = 1.17 Immunity
-Vigour -2 = 1.33 Immunity
-Vigour -3 = 1.5 Immunity
-Vigour -4 = 1.67 Immunity
+Vigour -1 = 1.2 Immunity
+Vigour -2 = 1.4 Immunity
+Vigour -3 = 1.6 Immunity
+Vigour -4 = 1.8 Immunity
 Vigour -5 = 2 Immunity
 
