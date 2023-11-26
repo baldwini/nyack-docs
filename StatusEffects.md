@@ -4,7 +4,7 @@ Notes
 # Affliction
 ---
 ## Broken (Limbs)
-Cure: Mend Spell, Doctor non-player characters, 
+Cure: Mend Spell, Doctor non-player characters 
 Cause: Done by excessive dealt damage to specific limbs 
 
 Effects: (Per Limb)
@@ -35,7 +35,7 @@ Foot Right -5% HT, -15% Speed (-30% Total Movement Speed Both Feet)
 Movement Speed
 ( Leg Left + Leg Right + Foot Left + Foot Right ) = Movement Speed Penalty
 ## Sleep Deprivation
-Sleep is required to for the player to save the game; camps can be set up by the player to sleep outside towns. Different areas of the game will have protection levels based on distance from obelisk, nearby factions and towns, and the player's reputation with those towns or factions. These factors affect the difficulty of the [[Skills#Survival (INS-4)|Survival]] check, which is made every rest outside, if failed then a random encounter may begin. Failure to sleep will occasionally result in negative side effects for the player, growing based on how long the player hasn't slept.
+Sleep is required for the player to save the game; camps can be set up by the player to sleep outside towns. Different areas of the game will have protection levels based on distance from obelisk, nearby factions and towns, and the player's reputation with those towns or factions. These factors affect the difficulty of the [[Skills#Survival (INS-4)|Survival]] check, which is made every rest outside, if failed then a random encounter may begin. Failure to sleep will occasionally result in negative side effects for the player, growing based on how long the player hasn't slept.
 
 Cure: Sleeping
 Cause: Skipping Sleep
@@ -88,5 +88,5 @@ Effects: -5 STR, -3 DXT, Movement becomes unreliable (swapping movement keys),
 
 These values allow for different volatilities and durations of poisons.
 ##### Effect:
-Example: Say Damage = 12, Decay = 3, Tick = 5 seconds...
-The player will take 12 Hit Points of damage, then 5 seconds later take 12 - 3 = 9 Hit Points of damage, then 5 seconds later take 6, then 3, then the poison has worn off... for a total of 30 damage over 15ish seconds...
+* Example: Say Damage = 12, Decay = 3, Tick = 5 seconds...
+	The player will take 12 Hit Points of damage, then 5 seconds later take 12 - 3 = 9 Hit Points of damage, then 5 seconds later take 6, then 3, then the poison has worn off... for a total of 30 damage over 15 seconds...
