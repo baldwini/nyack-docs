@@ -5,7 +5,9 @@
 These are the default key binds for the game although they probably should be re-bindable by the player.
 
 **WASD** - *Movement*
-**Mouse** - *Selection Cursor* 
+**E** - *Pick Up Object, with Cursor*
+**R** - *Ready Weapon/Hands*
+**Mouse** - *Selection Cursor*
 **Space** - *Jump* 
 **Control** - *Crouch*
 **Tab** - *Swap Control Mode; Combat Mode, Interact Mode*
