@@ -44,7 +44,7 @@ Release anger from the target's mind, turn hostile non-player character's into n
 ## Information
 
 ### Seek
-Spell used to find nearby objects. It would only find anything on a target or area. A raw material would be needed during spell creation. For example, if you wanted to find keys, you would need to input a key during spell creation.
+Spell used to find nearby objects. It would only find anything on a target or area. An additional raw material would be needed during spell creation. For example, if you wanted to find keys, you would need to input a key during spell creation.
 
 ### Sense
 A spell used for understanding target emotions. Most inhabitants of Nyack don't appreciate spell casters so it is unlikely they would be tolerant of the player casting spells on them.
