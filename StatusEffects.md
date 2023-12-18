@@ -6,8 +6,6 @@
 *Modular*
 - **Cure**: Mend Spell, Doctor non-player characters 
 - **Cause**: Done by excessive dealt damage to specific limbs 
-
-<<<<<<< Updated upstream
 #### Effects
 - **Head**: -10% HT, -3 INS
 
@@ -34,7 +32,7 @@
 
 	Movement Speed
 	( Leg Left + Leg Right + Foot Left + Foot Right ) = Movement Speed Penalty
-=======
+
 Effects: (Per Limb)
 Head -10% HP, -3 INS
 
@@ -56,7 +54,6 @@ Hand Left -5% HP, -50% Swing Speed Colossal Weapons, -25% Swing Speed
 Simple Weapons, -20% Swing Speed Light Weapons (Multiply by 2 for two-handed weapons) 
 
 Hand Right -5% HP, -30% Swing Speed Colossal Weapons, -15% Swing Speed Simple Weapons, -20% Swing Speed Light Weapons (Multiply by 2 for two-handed weapons)
->>>>>>> Stashed changes
 
 ## Sleep Deprivation
 *Phases*
@@ -112,8 +109,6 @@ Fake encounters may now hurt the player, auditory hallucinations continue, healt
 *Stack-able*
 * **Cure**: Spell (unimplemented), acidic consumable, throwing powdery rocks near the player character
 * **Cause**: Poison tipped weapons, drinking poison, walking and running into poison flora
-
-<<<<<<< Updated upstream
 #### Characteristics
 * **Damage**: X Hit Points
 * **Decay**: Number of Hit Points that will remove from the last damage value every time damage occurs
@@ -126,4 +121,3 @@ Fake encounters may now hurt the player, auditory hallucinations continue, healt
 	The player will take 12 Hit Points of damage, then 5 seconds later take 12 - 3 = 9 Hit Points of damage, then 5 seconds later take 6, then 3, then the poison has worn off... for a total of 30 damage over 15 seconds...
 =======
 Effects: (5 Hit point * Immunity) *Rounded Value* loss every 5 real-time seconds
->>>>>>> Stashed changes
