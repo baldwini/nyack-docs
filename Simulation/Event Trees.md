@@ -46,7 +46,7 @@ Grief born larva when bonded will mope around and make crying or sniffle noises.
 Disgust born larva when bonded will kick non-static objects and become enraged when spoken to, which engages combat.
 
 ## Event: Love Born
-Love born larva when bonded will pick plants and secretly give them as gifts to nearby non-player characters and the player. If confronted they will mimic giggling sounds, while attacking will leave them rushing to find more gifts to give.
+Love born larva when bonded will pick plants and secretly give them as gifts to nearby non-player characters and the player. If confronted they will mimic giggling sounds, if attacked will leave them rushing to find more gifts to give.
 
 ## Event: Rage Born
 Rage born larva when bonded will attempt to destroy any non-static objects they see. Confronted will engage in combat. They typically scream in their free time.

@@ -10,7 +10,7 @@ Small blurbs of text that appear over non-player characters heads
 
 These are traditionally used to give background about the world or location, show current problems and potential quests, and great for showing humour. Any text that doesn't need to be in a larger context that shows the everyday life of an non-player character.
 
-# Written Actions
+# Context Actions
 ---
 Text boxes that the player is locked into until they make a choice about something that game can't show with its already existing mechanics.
 

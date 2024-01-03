@@ -21,4 +21,4 @@ The player will not be effected by common diseases and blights
 The player is more likely to get adverse effects from potions which leads to temporary attribute or skill reduction based on potion effect
 
 ### Agoraphobia (+20 Points)
-The player is only able to [[sleep]] in towns
+The player is only able to [[StatusEffects#Sleep Deprivation|sleep]] in towns
