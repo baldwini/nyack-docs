@@ -15,19 +15,19 @@ The merchant will roam around the area where the player's town crashed down. The
 - "Merchant" needs to be alive
 
 ## Event: "Merchant" Found the Player
-"Merchant" has found the player character. They will speak to the player, bringing up the dialogue box; they will become aggressive and demand compensation for their hut getting destroyed by the sinkhole. The player will be able to diffuse the conversation by giving them an item and choosing nice dialogue options. If the player has high insight they can gleam from the conversation that the "merchant" is being disingenuous and attempting to take advantage of the player; they will be able to convince the merchant that they lived here too.
+"Merchant" has found the player character. They will speak to the player, bringing up the dialogue box; they will become aggressive and demand compensation for their hut getting destroyed by the sinkhole (the sinkhole falling did not cause any other damage to the merchant's town). The player will be able to defuse the conversation by giving them an item and choosing nice dialogue options. If the player has high insight they can glean from the conversation that the "merchant" is being disingenuous and attempting to take advantage of the player; the player will be able to convince the merchant that they are not from the sinkhole town, but instead from the same town as the merchant.
 ### Requirements
 - This is the first time the "Merchant" has spoke to the player
 
 # Event Tree: Entry to the [[Locations#Mages|Mages Location]]
 ---
 ## Master Event
-The mages use man-made obelisk creatures that wonder around the premises to scare off outsiders.
+The mages use man-made obelisk creatures that wander around the premises to scare off outsiders.
 
 ### Requirements
 - 50% of the mages are living
 - The player is amicable with a mage or the faction
-	This is using the reputation of the player, as long as the player doesn't antagonize mages before entering their location. The player also can not progress with other factions in disrupting the mages.
+	This is using the reputation of the player. The player will have to have increased their reputation in some way. The player cannot have antagonized mages before entering their location, and they also cannot have progressed with other factions that have taken part in disrupting the mages.
 
 ### Outcome
 
