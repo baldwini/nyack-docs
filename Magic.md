@@ -4,7 +4,7 @@
 ## Binding
 A modifier that dictates that the spell lasts for a set amount of time. Every spell has a specified amount of binding; the length of time could be a second, referred to as a single hit, to a week of time (about 105 minutes, as every day is fifteen minutes or 900 seconds).
 ## Ritual
-Free costing spell's are rituals, they can be cast as many times as possible without expending health. These spells would take much longer to cast than any other spell and cannot be overly complex. Casting ritual spells will require [[Skills#Survival (INS-4)|survival]] checks.
+Free costing spell's are rituals, they can be cast as many times as possible without expending health. These spells would take much longer to cast than any other spell and cannot be overly complex. Casting ritual spells will require [[Skills#Survival|survival]] checks.
 ## Area
 A spell that effects an area on hit. These can be a few feet in diameter to miles long. Although, for the player's sake the range will be defined as **one foot to fifty feet**. Area spells that have binding are known as "auras."
 
