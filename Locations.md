@@ -18,7 +18,9 @@ An isolationist, less fortified group that works closely with obelisk related ma
 
 # Old Civilization
 ---
-The old civilization lived in great interconnected corridors, where some rooms are unrecognizable of their original layout due to deterioration or damage from those who roam the halls currently, obelisk creations. Although many dangerous obelisk creatures still inhabit the halls other are fairly mundane and mimic what the old civilization may have done before their downfall. Many of the mundane obelisk creatures have existed and lived at the side of the old civilization, they were popularly treated as pets, servants, or helpers. The original inhabitants of the old civilization were notably larger than the player character and some rooms are confusing as to there purpose as they were much different creatures to those who live in Nyack's depths today.
+The old civilization lived in great interconnected corridors, where some rooms are unrecognizable of their original layout due to deterioration or damage from those who roam the halls currently, obelisk creations. Although many dangerous obelisk creatures still inhabit the halls other are fairly mundane and mimic what the old civilization may have done before their downfall. Many of the mundane obelisk creatures have existed and lived at the side of the old civilization, they were popularly treated as pets, servants, or helpers. The original inhabitants of the old civilization were notably larger than the player character and some rooms are confusing as to there purpose as they were much different creatures to those who live in the depths of Nyack today.
+
+The old civilization had to purge negative emotions from their people; these feelings being recognized by the obelisk have been previously disastrous. They were required to police their own ideas to prevent obelisk enslavement.
 # Spaceship
 ---
 
