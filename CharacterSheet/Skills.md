@@ -28,7 +28,7 @@ Lock-pick will allow the unlocking of locked doors and chests.
 
 ## Disarm
 *INS-4*
-Disarming will cover the plausibility of successfully disarming a  trap.
+Disarming will cover the plausibility of successfully disarming a trap.
 
 ## Light Weapons
 *DXT-2*
