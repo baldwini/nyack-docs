@@ -103,15 +103,3 @@ STR 0 - 100 WT
 	Raw Damage - DN = X * (1 - DR) = Actual Damage
 
 - **Armour Pieces**: Armours are separated into different segments based on [[Equipment#Armour|armour types]]. Some pieces only provide defence of a specific body part while other pieces of armour provide defence to multiple areas. Pieces of armour will have their own individual weights.
-
-# Speech Skills
-
-## Intimidation
-*STR*
-Additional dialogue option that appears due to the player's [[Attributes#Strength|strength attribute]] score. The check that allows this to be an option for the player will be dependant on the quest or event.
-## Deceive
-*DXT*
-Additional dialogue option that appears due to the player's [[Attributes#Dexterity|dexerity attribute]] score. The check that allows this to be an option for the player will be dependant on the quest or event.
-## Discern
-*INS*
-Additional dialogue option that appears due to the player's [[Attributes#Insight|insight attribute]] score. The check that allows this to be an option for the player will be dependant on the quest or event.
