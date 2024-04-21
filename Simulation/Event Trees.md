@@ -15,7 +15,7 @@ The merchant will roam around the area where the player's town crashed down. The
 - "Merchant" needs to be alive
 
 ## Event: "Merchant" Found the Player
-"Merchant" has found the player character. They will speak to the player, bringing up the dialogue box; they will become aggressive and demand compensation for their hut getting destroyed by the sinkhole (the sinkhole falling did not cause any other damage to the merchant's town). The player will be able to defuse the conversation by giving them an item and choosing nice dialogue options. If the player has high insight they can glean from the conversation that the "merchant" is being disingenuous and attempting to take advantage of the player; the player will be able to convince the merchant that they are not from the sinkhole town, but instead from the same town as the merchant.
+"Merchant" has found the player character. They will speak to the player, bringing up the dialogue box; they will become aggressive and demand compensation for their hut getting destroyed by the sinkhole (the sinkhole falling did not cause any other damage to the merchant's town). The player will be able to defuse the conversation by giving them an item and choosing nice dialogue options. If the player has high intelligence they can glean from the conversation that the "merchant" is being disingenuous and attempting to take advantage of the player; the player will be able to convince the merchant that they are not from the sinkhole town, but instead from the same town as the merchant.
 ### Requirements
 - This is the first time the "Merchant" has spoke to the player
 

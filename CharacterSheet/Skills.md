@@ -76,22 +76,22 @@ STR 0 - 100 WT
 
 ## Health
 *VGR*
-- **Round(Health Point Total)** = 25 + (Vigour * 4.8)
+- **Round(Health Point Total)** = 25 + (endurance * 4.8)
 
 ## Immunity
 *VGR*
-- Immunity is calculated based on the Vigour attribute; it is represented on the table below.
-	Vigour 5 = 0.5 Immunity
-	Vigour 4 = 0.6 Immunity
-	Vigour 3 = 0.7 Immunity
-	Vigour 2 = 0.8 Immunity
-	Vigour 1 = 0.9 Immunity
-	Vigour 0 = 1 Immunity
-	Vigour -1 = 1.2 Immunity
-	Vigour -2 = 1.4 Immunity
-	Vigour -3 = 1.6 Immunity
-	Vigour -4 = 1.8 Immunity
-	Vigour -5 = 2 Immunity
+- Immunity is calculated based on the endurance attribute; it is represented on the table below.
+	endurance 5 = 0.5 Immunity
+	endurance 4 = 0.6 Immunity
+	endurance 3 = 0.7 Immunity
+	endurance 2 = 0.8 Immunity
+	endurance 1 = 0.9 Immunity
+	endurance 0 = 1 Immunity
+	endurance -1 = 1.2 Immunity
+	endurance -2 = 1.4 Immunity
+	endurance -3 = 1.6 Immunity
+	endurance -4 = 1.8 Immunity
+	endurance -5 = 2 Immunity
 
 ## Armour
 *STR*

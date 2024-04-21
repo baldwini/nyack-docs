@@ -6,10 +6,10 @@ Strength governs may aspects of the player character except for skills. Strength
 ---
 Dexterity is used for many [[Skills]] requiring agility or precision. Any skill that needs hands to use will use dexterity. Dexterity also influences player [[Skills#Speed|speed]] values, it is more important than strength for this calculation. Dexterity is commonly referred to as DXT in the game menus.
 
-### Insight
+### Intelligence
 ---
-Insight spans all mental [[Skills]] and anything to do with magic. Insight is commonly referred to in game as INS.
+Intelligence spans all mental [[Skills]] and anything to do with magic. Intelligence is commonly referred to in game as INS.
 
-### Vigour
+### Endurance
 ---
-Vigour dictates how much [[Skills#Health|health]] the player has and the strength of the player's [[Skills#Immune System|immune system]]. Health is also the player's mana pool, which is used to cast spells. Vigour is commonly referred to in-game as VGR.
+Endurance dictates how much [[Skills#Health|health]] the player has and the strength of the player's [[Skills#Immune System|immune system]]. Health is also the player's mana pool, which is used to cast spells. Endurance is commonly referred to in-game as VGR.

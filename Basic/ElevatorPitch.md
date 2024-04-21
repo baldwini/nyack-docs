@@ -2,7 +2,7 @@
 ---
 1. References to our world must be vague, if a player doesn’t understand a reference to something made in the world and is confused by that, that makes the player feel out of a joke and breaks immersion.
 2. The main narrative must service creativity into individual stories. The main narrative isn’t the main focus but a catalyst for small, easily consumable interactions and stories.
-3. This is our first project, it doesn’t have to be perfect.
+3. This is my first project, it doesn’t have to be perfect.
 
 # What is the setting?
 ---
